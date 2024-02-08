@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muharrem Emin Yurt I am 16 years old 2nd year high school student
-- 👀 I am interested in object oriented programming
+- 👀 I am interested in object oriented programming and web development
 - 🌱 I’m currently learning C# in Visual Studio and Html Css in Visual Studio Code
 
 <!---
