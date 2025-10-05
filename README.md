@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="Israel Adesanya.JPEG" alt="Israel Adesanya" width="45%" />
-  <img src="G0rCAZ0WQAAjbnq.jpgr" width="45%" />
+  <img src="G0rCAZ0WQAAjbnq.jpg" width="45%" />
 </p>
 
 ---
