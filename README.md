@@ -1,3 +1,4 @@
+
 <p style="color: #2c3e50;"><i class="fa-solid fa-user-tie"></i> **Hi!** I'm Muharrem Emin, a 17 years old high school student.</p>
 <p style="color: #2c3e50;"><i class="fa-solid fa-laptop-code"></i> I'm interested in **object-oriented programming** and **web development**.</p>
 <p style="color: #2c3e50;"><i class="fa-solid fa-graduation-cap"></i> I'm currently learning **C++ Qt Framework**, **HTML/CSS/JavaScript via Visual Studio Code**, and am interested in **SQL**.</p>
@@ -29,17 +30,19 @@
     <h2 style="color: #f39c12; font-size: 1.6em; border-left: 4px solid #f39c12; padding-left: 10px; margin-top: 0;">My Personal Space</h2>
     <section>
         <h3 style="color: #2c3e50;">I enjoy watching **UFC** and e-sports like **CS:GO** and **League of Legends**.</h3>
-        
-        <section style="display: flex; gap: 10px; margin-top: 15px;">
-            <div style="flex: 1; text-align: center; padding: 0; border: none; background: none;">
-                <h3 style="color: #3498db; margin-top: 0;">My Favorite Fighter and Player</h3>
+        a
+         -------------------------------------------------------------------------------------------------------
+        <div style="margin-top: 15px; overflow: hidden; padding-bottom: 5px;">
+            <h3 style="color: #3498db; margin-top: 0; text-align: center;">My Favorite Fighter and Player</h3>
+            <div style="width: 48%; float: left; text-align: center; margin-right: 2%;">
                 <img src="Israel Adesanya.JPEG" alt="Israel Adesanya" style="max-width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 3px solid #3498db;">
             </div>
-            <div style="flex: 1; text-align: center; padding: 0; border: none; background: none;">
+            <div style="width: 48%; float: right; text-align: center; margin-left: 2%;">
                 <img src="100t-closer-min-scaled.jpg" alt="100T Closer" style="max-width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 3px solid #3498db;">
             </div>
-        </section>
-        
+            <div style="clear: both;"></div>
+        </div>
+       -------------------------------------------------------------------------------------------------------
         <h3 style="color: #2c3e50; margin-top: 20px;">I like playing **chess** and solving **puzzles**.</h3>
         <h3 style="color: #2c3e50;">I enjoy listening to **music**, especially **rock** and **metal** genres.</h3>
     </section>
