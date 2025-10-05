@@ -49,5 +49,6 @@
   <i>“Victory belongs to those who can say, ‘Victory is mine.’<br>
   Success, however, belongs to those who start by saying, ‘I will succeed,’<br>
   and end up saying, ‘I have succeeded.’”</i><br>
-  — <b>Mustafa Kemal Atatürk</b>
+  — <b>Mustafa Kemal Atatürk</b><br><br>
+  <img src="ataturk-signature.png" alt="Atatürk signature" width="120px" />
 </p>
