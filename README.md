@@ -34,7 +34,9 @@
 - I enjoy watching **UFC** and **e-sports** like *CS:GO* and *League of Legends* 🥊🎮  
 - I like playing **chess** and solving **puzzles** ♟️🧩  
 - I enjoy listening to **rock** and **metal** music 🎧🤘  
-
+<p align="center">
+  <img src="reze.jpeg" />
+</p>
 
 
 <p align="center">
