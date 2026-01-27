@@ -35,14 +35,7 @@
 - I like playing **chess** and solving **puzzles** ♟️🧩  
 - I enjoy listening to **rock** and **metal** music 🎧🤘  
 
-<h3 align="center">My Favorite Fighter and Player</h3>
 
-<p align="center">
-  <img src="Israel Adesanya.JPEG" alt="Israel Adesanya" width="45%" height="400px"/>
-  <img src="G0rCAZ0WQAAjbnq.jpg" width="45%" height="400px" />
-</p>
-
----
 
 <p align="center">
   <i>“Keep learning, keep improving.”</i><br><br>
