@@ -77,6 +77,12 @@ Bunların yanında **HTML, CSS ve JavaScript** ile web projeleri geliştiriyor; 
 <div align="center">
   <i>"İyi oyunlar tesadüfen yapılmaz — tasarlanır, geliştirilir ve rafine edilir."</i>
 </div>
+<br>
+<br>
+
+<br>
+
+<br>
 
 <p align="center">
   <i>“Zafer, "Zafer benimdir" diyebilenindir.<br>
