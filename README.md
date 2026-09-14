@@ -22,12 +22,8 @@ Bunların yanında **HTML, CSS ve JavaScript** ile web projeleri geliştiriyor; 
 - 🌐 Ayrıca: **HTML · CSS · JavaScript**
 - 🤖 Yapay zeka destekli geliştirme: prompt mühendisliği, araç entegrasyonu
 - 📍 Türkiye
-- 🔭 Üzerinde çalıştığım proje: OpenTemp ve Dream Killer
-- 💬 Bana sorabileceklerin: oyun mekaniği, UE5 sistemleri, Web Sitesi Tasarımları
-
 ---
 
-## 🛠️ Teknoloji Yığını
 
 ### 🎮 Oyun Geliştirme
 | Araç | Seviye |
@@ -36,41 +32,7 @@ Bunların yanında **HTML, CSS ve JavaScript** ile web projeleri geliştiriyor; 
 | Blueprint Visual Scripting | ⭐⭐⭐⭐ |
 | C++ (Oyun Programlama) | ⭐⭐⭐|
 
-### 🌐 Web
-| Araç | Seviye |
-|------|--------|
-| HTML5 | ⭐⭐⭐⭐ |
-| CSS3 | ⭐⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐ |
 
-### 🤖 Yapay Zeka & Araçlar
-- Prompt mühendisliği (Gemini, Claude vb.)
-- Yapay zeka destekli kod üretimi ve hata ayıklama
-- Geliştirme süreçlerini yapay zeka ile otomatikleştirme
----
-
-## 🚀 Öne Çıkan Projeler
-
-### 🌐 [OpenTemp — Clean Baseline Template](https://github.com/Kzuyaa/OpenTemp-clean_baseline)
-> *C++17 + Vanilla JS ile geliştirilmiş HTML template yönetim sisteminin tema değiştirilebilir, dashboard-editable web template'i.*
-
-- **C++17 CLI:** Batch string replacement, tema üretimi, template işleme (`std::filesystem`, `std::regex`)
-- **Vanilla JS Dashboard:** Canlı önizleme, inline editor (undo/redo), 13+ CSS tema sistemi
-- `template.json` field sistemi ile tüm içerik dashboard'dan düzenlenebilir
-- Sıfır dependency — tarayıcıda direkt çalışır, ZIP/HTML export
-
----
-
-
-## 📫 İletişim
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KULLANICI_ADIN)
-[![Portföy](https://img.shields.io/badge/Portföy-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sitenin-adresi.com)
-[![E-posta](https://img.shields.io/badge/E--posta-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@adresin.com)
-
-</div>
 
 ---
 
