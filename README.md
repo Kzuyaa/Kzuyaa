@@ -1,4 +1,4 @@
-# Merhaba, ben Muharrem Emin 👋
+# Merhaba, ben Emin 👋
 
 <div align="center">
   
